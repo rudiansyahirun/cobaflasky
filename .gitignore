@@ -1,0 +1,5 @@
+# terabox cfg files
+*.cfg
+
+# __pycache__ folders
+__pycache__/
